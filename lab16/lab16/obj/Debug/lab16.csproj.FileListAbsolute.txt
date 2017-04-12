@@ -1,0 +1,11 @@
+E:\Люда\Основы программ\lab16\lab16\lab16\bin\Debug\lab16.exe.config
+E:\Люда\Основы программ\lab16\lab16\lab16\bin\Debug\lab16.exe
+E:\Люда\Основы программ\lab16\lab16\lab16\bin\Debug\lab16.pdb
+E:\Люда\Основы программ\lab16\lab16\lab16\obj\Debug\lab16.csprojResolveAssemblyReference.cache
+E:\Люда\Основы программ\lab16\lab16\lab16\obj\Debug\lab16.Properties.Resources.resources
+E:\Люда\Основы программ\lab16\lab16\lab16\obj\Debug\lab16.csproj.GenerateResource.Cache
+E:\Люда\Основы программ\lab16\lab16\lab16\obj\Debug\lab16.exe
+E:\Люда\Основы программ\lab16\lab16\lab16\obj\Debug\lab16.pdb
+E:\Люда\Основы программ\lab16\lab16\lab16\obj\Debug\lab16.Form2.resources
+E:\Люда\Основы программ\lab16\lab16\lab16\obj\Debug\lab16.Form1.resources
+E:\Люда\Основы программ\lab16\lab16\lab16\obj\Debug\lab16.Form3.resources

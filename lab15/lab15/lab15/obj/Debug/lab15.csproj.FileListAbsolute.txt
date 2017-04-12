@@ -1,0 +1,9 @@
+E:\Люда\Основы программ\lab15\lab15\lab15\bin\Debug\lab15.exe.config
+E:\Люда\Основы программ\lab15\lab15\lab15\bin\Debug\lab15.exe
+E:\Люда\Основы программ\lab15\lab15\lab15\bin\Debug\lab15.pdb
+E:\Люда\Основы программ\lab15\lab15\lab15\obj\Debug\lab15.csprojResolveAssemblyReference.cache
+E:\Люда\Основы программ\lab15\lab15\lab15\obj\Debug\lab15.Form1.resources
+E:\Люда\Основы программ\lab15\lab15\lab15\obj\Debug\lab15.Properties.Resources.resources
+E:\Люда\Основы программ\lab15\lab15\lab15\obj\Debug\lab15.csproj.GenerateResource.Cache
+E:\Люда\Основы программ\lab15\lab15\lab15\obj\Debug\lab15.exe
+E:\Люда\Основы программ\lab15\lab15\lab15\obj\Debug\lab15.pdb
